@@ -1,4 +1,4 @@
-# n
+# nuxt-firebase-chat
 
 > My funkadelic Nuxt.js project
 
